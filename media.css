@@ -1,0 +1,27 @@
+/* @media(max-width : 500px){
+    #nav_h1_btn_wrapper{
+        margin-left: 1.5vmax;
+    }
+    #nav_menu_button{
+        margin-right: 10vmax;
+    }
+    #page_1_center{
+        flex-direction: column-reverse;
+    }
+    .page1_center_right{
+        width: 100%;
+        /* background-color: pink; */
+    }
+    .page1_right_img{
+        width: 200%;
+        height: 100vh;
+        background-color: red;
+        overflow: hidden;
+    }
+
+    #whisky_img{
+        height: 400px;
+        width: 100%;
+    }
+    
+} */
